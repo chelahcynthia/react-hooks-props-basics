@@ -12,7 +12,7 @@ templates using **props**.
 
 We can define a React component as follows:
 
-A component is a _function_ that takes _props_ as an argument and returns _JSX_.
+<!-- A component is a _function_ that takes _props_ as an argument and returns _JSX_.
 
 As the building blocks of React applications, components are _dynamic_, in that
 they can describe a **template** of JSX in which variable data can be populated.
@@ -22,7 +22,7 @@ Our application will include the following components:
 - `BlogContent` - contains the content of the blog post
 - `Comment` - contains one user's comment
 - `BlogPost` - the 'top level' React component, which is responsible for
-  rendering both `BlogContent` and `Comment`
+  rendering both `BlogContent` and `Comment` -->
 
 ### Making Components Dynamic
 
